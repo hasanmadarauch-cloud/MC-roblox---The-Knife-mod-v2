@@ -1,0 +1,19 @@
+{
+  "item.knifemod.knife": "Bıçak",
+  "item.knifemod.knife.tip1": "Sol tık: kes",
+  "item.knifemod.knife.tip2": "Sağ tık basılı tut, bırak: fırlat",
+  "item.knifemod.knife.tip3": "Shift + sağ tık (hedefe): yakala",
+  "item.knifemod.knife.tip4": "Yakalıyken sağ tık: bıçakla | Shift + sağ tık: savur",
+  "entity.knifemod.thrown_knife": "Fırlatılan Bıçak",
+  "knifemod.grab.start": "%s yakalandı!",
+  "knifemod.grab.victim": "%s seni yakaladı!",
+  "gamerule.knifeBlood": "Bıçak kan efektleri",
+  "gamerule.knifeGrabPlayers": "Bıçakla oyuncu yakalanabilsin",
+  "item.knifemod.knife.tip5": "Kanatır • Sırttan ve kafaya ekstra hasar • Canı azken bıçakla: İNFAZ",
+  "effect.knifemod.bleeding": "Kanama",
+  "death.attack.knifemod_bleeding": "%1$s kan kaybından öldü",
+  "death.attack.knifemod_bleeding.player": "%1$s, %2$s yüzünden kan kaybından öldü",
+  "knifemod.backstab": "SIRTTAN BIÇAKLADIN!",
+  "knifemod.headshot": "KAFADAN!",
+  "knifemod.execute": "%s İNFAZ EDİLDİ"
+}

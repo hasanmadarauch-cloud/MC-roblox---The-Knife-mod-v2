@@ -1,0 +1,19 @@
+{
+  "item.knifemod.knife": "Knife",
+  "item.knifemod.knife.tip1": "Left click: slash",
+  "item.knifemod.knife.tip2": "Hold & release right click: throw",
+  "item.knifemod.knife.tip3": "Sneak + right click a target: grab",
+  "item.knifemod.knife.tip4": "While grabbing - right click: stab | sneak + right click: fling",
+  "entity.knifemod.thrown_knife": "Thrown Knife",
+  "knifemod.grab.start": "Grabbed %s!",
+  "knifemod.grab.victim": "%s grabbed you!",
+  "gamerule.knifeBlood": "Knife blood effects",
+  "gamerule.knifeGrabPlayers": "Knife can grab players",
+  "item.knifemod.knife.tip5": "Causes bleeding • Bonus backstab & headshot damage • Stab when low: EXECUTE",
+  "effect.knifemod.bleeding": "Bleeding",
+  "death.attack.knifemod_bleeding": "%1$s bled out",
+  "death.attack.knifemod_bleeding.player": "%1$s bled out because of %2$s",
+  "knifemod.backstab": "BACKSTAB!",
+  "knifemod.headshot": "HEADSHOT!",
+  "knifemod.execute": "%s EXECUTED"
+}
